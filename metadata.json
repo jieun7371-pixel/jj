@@ -1,0 +1,6 @@
+{
+  "name": "부산 갈매기",
+  "description": "웹캠 팔 동작으로 부산 서면 상공을 나는 실사 3D 비행 게임",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
